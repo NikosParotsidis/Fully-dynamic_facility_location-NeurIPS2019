@@ -1,3 +1,5 @@
+This is the code used in the paper Fully Dynamic Consistent Facility Location by Vincent Cohen-Addad, Niklas Hjuler, Nikos Parotsidis, David Saulpic and Chris Schwiegelshohn, appearing in the proceedings of NeurIPS 2019.
+
 # dynamic-facility-location
 
 Use main file to run all 3 algorithms
